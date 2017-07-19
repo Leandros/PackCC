@@ -53,7 +53,8 @@ By running this, the files `parser.h` and `parser.c` are generated.
 # Documentation
 
 The `docs/` directory contains the full documentation.
-Alternative, it's accessible at https://leandros.github.io/packcc
+
+Alternatively, the full docs can be found at https://leandros.github.io/PackCC
 
 # License
 
